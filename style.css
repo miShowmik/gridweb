@@ -19,6 +19,7 @@ body{
 .btn:hover{
     background-color: #ccc;
     border-bottom: 2px solid black;
+}
 img{
     max-width: 100%;
 }
