@@ -12,7 +12,13 @@ body{
     color: #fff;
     padding: 0.6rem 1.3rem;
     border: 0;
+    border-radius: 6px;
+    border-bottom: 2px transparent;
+    transition: border-box .5s, background-color .6s;
 }
+.btn:hover{
+    background-color: #ccc;
+    border-bottom: 2px solid black;
 img{
     max-width: 100%;
 }
